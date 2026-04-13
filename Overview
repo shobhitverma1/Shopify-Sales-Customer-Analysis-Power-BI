@@ -1,0 +1,48 @@
+#Shopify Sales & Customer Funnel Analysis
+
+#Overview
+This project is a Power BI dashboard built to analyze Shopify sales data and uncover insights related to revenue, customer behavior, and retention.
+
+#Objective
+- Analyze sales performance
+- Understand customer purchase patterns
+- Measure retention and customer lifetime value
+- Enable data-driven decision-making
+
+#Tools Used
+- Power BI
+- DAX
+- Data Cleaning & Modeling
+
+#Key KPIs
+- Net Sales
+- Total Quantity
+- Average Order Value
+- Total Customers
+- Repeat Customers
+- Customer Lifetime Value
+- Repeat Rate
+- Purchase Frequency
+
+#Dashboard Features
+- Sales trend over time
+- Regional analysis (Map visualization)
+- Customer behavior insights
+- Payment gateway analysis
+- Product category performance
+- Drill-through detailed data view
+
+#Key Insights
+- Identified top-performing cities and regions
+- Repeat customers contribute significantly to revenue
+- Certain product categories drive higher sales
+- Sales trends reveal peak activity periods
+
+#Files Included
+- Power BI Dashboard (.pbix)
+- Dataset
+- Project Documentation
+- Screenshots
+
+#Conclusion
+This dashboard helps businesses monitor performance, understand customers, and improve strategic decision-making.
