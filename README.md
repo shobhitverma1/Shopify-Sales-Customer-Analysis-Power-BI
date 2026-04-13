@@ -19,9 +19,13 @@ Project Workflow:
 
 Key KPIs Used:
 - Transaction Performance
+  
 Net Sales -> Total revenue generated
+
 Total Quantity -> Products sold
+
 Average Order Value (AOV) -> Revenue per order
+
 - Customer Behavior
 Total Customers
 Single Order Customers
@@ -55,4 +59,4 @@ Key Insights:
 - Repeat customers significantly impact revenue
 - Specific payment gateways dominate transactions
 - Some product categories outperform others
-- Sales vary by time → useful for marketing timing
+- Sales vary by time -> useful for marketing timing
